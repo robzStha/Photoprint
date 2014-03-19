@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoPrint</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnLogin">Login</string>
+    <string name="pwd">Password</string>
+    <string name="un">Username</string>
+    <string name="uploadMsg">Select Images to upload</string>
+    <string name="app_id">232382423552157</string>
+    <string name="application_id">232382423552157</string>
+    <string name="albumMsg">Please select one of your albums</string>
+
+</resources>
